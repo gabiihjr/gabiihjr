@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![gabiihjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight)](https://github.com/gabiihjr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&theme=tokyonight)](https://github.com/gabiihjr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
