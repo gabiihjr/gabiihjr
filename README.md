@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![gabiihjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=dark)](https://github.com/gabiihjr/github-readme-stats)
+[![gabiihjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=radical)](https://github.com/gabiihjr/github-readme-stats)
 
 <!--
 **gabiihjr/gabiihjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
