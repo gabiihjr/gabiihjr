@@ -3,6 +3,10 @@
 [![gabiihjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight)](https://github.com/gabiihjr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Technologies
+
+![html5](https://user-images.githubusercontent.com/94693150/155538783-0323c7f4-a1cc-4437-9c08-2cb5dbce1a8e.svg)
+
 
 <!--
 **gabiihjr/gabiihjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
