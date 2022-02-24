@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Gabriela Hermenegildo
+---
 
 ### How to Reach Me
 <a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
