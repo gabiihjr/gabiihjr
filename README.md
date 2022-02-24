@@ -7,6 +7,7 @@
 <img width=400em src="https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/> -->
 
+---
 
 ### Technologies
 <div style={ display: flex }>
@@ -17,6 +18,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
+---
 
 <!--
 **gabiihjr/gabiihjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
