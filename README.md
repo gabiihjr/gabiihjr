@@ -12,7 +12,7 @@
 
 
 
-## Technologies
+## 💻 Technologies
 
 <div style={ display: flex }>
 
