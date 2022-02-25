@@ -2,7 +2,7 @@
 
 ## How to Reach Me
 <a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,">
-  [![Gmail Badge](https://img.shields.io/badge/-gabriela.hermenegildo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriela.hermenegildo@gmail.com)](mailto:kanna6501@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-gabriela.hermenegildo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriela.hermenegildo@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## GitHub Stats
 
