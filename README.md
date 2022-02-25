@@ -5,15 +5,7 @@
 ## 🔍 How to Reach Me
 <a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,">
   [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriela.hermenegildo@gmail.com)](mailto:gabriela.hermenegildo@gmail.com)
-
-## GitHub Stats
-
-<img width=400em src="https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<!--   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/> -->
-
-
-
-
+  
 ## 🛠 Technologies
 
 <div style={ display: flex }>
@@ -25,8 +17,13 @@
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
+## ⭐️ GitHub Stats
 
-Here are some ideas to get you started:
+<img width=400em src="https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/> -->
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -35,5 +32,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
