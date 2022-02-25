@@ -1,12 +1,14 @@
 ## Hi there 👋 I'm Gabriela Hermenegildo
 
 ## How to Reach Me
-<a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,"><img src=https://img.shields.io/badge/-gabriela.hermenegildo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white /> </a>
+<a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,">
+  [![Gmail Badge](https://img.shields.io/badge/-gabriela.hermenegildo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriela.hermenegildo@gmail.com)](mailto:kanna6501@gmail.com)
 
 ## GitHub Stats
 
 <img width=400em src="https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/> -->
+
 
 
 
