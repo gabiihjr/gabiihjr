@@ -6,10 +6,11 @@
 <a href="https://www.linkedin.com/in/gabriela-hermenegildo-junior/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a> <a href="mailto:gabriela.hermenegildo@gmail.com?subject=Hello%20Gabriela,">
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriela.hermenegildo@gmail.com)](mailto:gabriela.hermenegildo@gmail.com)
   
-## 🛠 Technologies
+## 🛠 Technologies and Tools
 
 <div style={ display: flex }>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
