@@ -30,7 +30,6 @@ I'm Gabriela Hermenegildo (she/her), FullStack Web Developer.
   <div style={ display: flex }>
    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-   <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   </div>
 
 
