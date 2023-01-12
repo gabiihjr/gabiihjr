@@ -38,5 +38,5 @@ I'm Gabriela Hermenegildo (she/her), FullStack Web Developer.
 <div style={ display: flex }>
   <img width=400em src="https://github-readme-stats.vercel.app/api?username=gabiihjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiihjr&layout=compact&hide_borders=true&langs_count=7&theme=tokyonight"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
