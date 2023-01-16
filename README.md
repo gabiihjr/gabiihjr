@@ -1,10 +1,12 @@
 ## 🌈 Hello 👋
 I'm Gabriela Hermenegildo (she/her), FullStack Web Developer.
 
+
 ## 🔍 How to Reach Me
 <a href="https://www.linkedin.com/in/gabriela-hermenegildo-jr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 gabriela.hermenegildo@gmail.com
+
   
 ## 🛠 Technologies and Tools
 
@@ -52,6 +54,7 @@ gabriela.hermenegildo@gmail.com
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 </div>
+ 
  
 ## 📚 Learning
   
